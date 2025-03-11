@@ -13,6 +13,11 @@ public class program {
 
             var webapi = bulder.build();
 
+            webapi.run();
+
+
+            Console.WriteLine("Ending");
+
 
             
             // After that we can use  the bulder to create the web service
